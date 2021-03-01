@@ -1,0 +1,4 @@
+[workspace]
+members = [
+  "local_crate_a",
+]
