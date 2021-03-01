@@ -1,0 +1,7 @@
+{
+  "extends": [
+    ":pinOnlyDevDependencies"
+  ],
+  "semanticCommits": true,
+  "rebaseStalePrs": true
+}
